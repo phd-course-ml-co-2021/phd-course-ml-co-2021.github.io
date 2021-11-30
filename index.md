@@ -10,3 +10,6 @@ All lectures will be made available through a dedicated [github organization](ht
 * [Week 1: Constrained Optimization for Data Mining](https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-01)
   - The main goal of this lectures will be to cover multiple techniques for constrained optimization, using a non-trivial data mining problem as a driving example
 
+Lecture recordings will also be made available from this web site:
+
+
