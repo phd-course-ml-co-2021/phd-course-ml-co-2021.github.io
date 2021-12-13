@@ -14,6 +14,8 @@ All lectures will be made available through a dedicated [github organization](ht
 
 * [Part 1: Constrained Optimization for Data Mining](https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-01)
   - The main goal of this lectures will be to cover multiple techniques for constrained optimization, using a non-trivial data mining problem as a driving example
+* [Part 2: Machine Learning for Constrained Optimization](https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-02/)
+  - These lectures will cover the use of ML models to provide parameters or functional estimators for constrained optimization
 
 Lecture recordings will also be made available from this web site:
 
