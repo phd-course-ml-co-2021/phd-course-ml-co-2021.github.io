@@ -16,12 +16,15 @@ All lectures will be made available through a dedicated [github organization](ht
   - The main goal of this lectures will be to cover multiple techniques for constrained optimization, using a non-trivial data mining problem as a driving example
 * [Part 2: Machine Learning for Constrained Optimization](https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-02/)
   - These lectures will cover the use of ML models to provide parameters or functional estimators for constrained optimization
+* [Part 3: Constraints in Machine Learning](https://github.com/phd-course-ml-co-2021/phd-ml-co-2021-03/)
+  - These lectures will cover methods to take into account constraints in ML models
 
 Lecture recordings will also be made available from this web site:
 
 * [Lecture 1](https://www.lompa.it/teaching/ML-CO-2021/20211130.mp4)
 * [Lecture 2](https://www.lompa.it/teaching/ML-CO-2021/20211206.mp4)
 * [Lecture 3](https://www.lompa.it/teaching/ML-CO-2021/20211207.mp4)
-* [Lecture 4](https://www.lompa.it/teaching/ML-CO-2021/20211217.mp4)
+* [Lecture 4](https://www.lompa.it/teaching/ML-CO-2021/20211214.mp4)
+* [Lecture 5](https://www.lompa.it/teaching/ML-CO-2021/20211217.mp4)
 
 
