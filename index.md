@@ -26,5 +26,6 @@ Lecture recordings will also be made available from this web site:
 * [Lecture 3](https://www.lompa.it/teaching/ML-CO-2021/20211207.mp4)
 * [Lecture 4](https://www.lompa.it/teaching/ML-CO-2021/20211214.mp4)
 * [Lecture 5](https://www.lompa.it/teaching/ML-CO-2021/20211217.mp4)
+* [Lecture 6](https://www.lompa.it/teaching/ML-CO-2021/20220208.mp4)
 
 
